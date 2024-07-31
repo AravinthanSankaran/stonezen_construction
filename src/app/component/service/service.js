@@ -1,10 +1,10 @@
 "use client";
 
 import React from "react";
-import Preconstruction from "../../../../public/images/Preconstruction.jpg";
-import Speciality from "../../../../public/images/specialit-construction.jpg";
-import Renovation from "../../../../public/images/Rennovation1.jpg";
-import Infrastructure from "../../../../public/images/infrastructure.jpg";
+import preconstruction from "../../../../public/images/Preconstruction.jpg";
+import speciality from "../../../../public/images/specialit-construction.jpg";
+import renovation from "../../../../public/images/Rennovation1.jpg";
+import infrastructure from "../../../../public/images/infrastructure.jpg";
 import ServiceCard from "./servicecard";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -15,28 +15,28 @@ function ServicesProvider() {
     {
       id: 1,
       name: "Preconstruction Planning",
-      image: Preconstruction,
+      image: preconstruction,
       description:
         "Pre-construction services involve a range of preparatory activities crucial for a successful construction project. These include conducting feasibility studies to assess project viability, performing site analysis to understand conditions and potential challenges, and preparing detailed cost estimates for budgeting. Additionally, comprehensive project planning and scheduling are developed to guide the project timeline, while permit acquisition ensures compliance with legal and regulatory requirements.",
     },
     {
       id: 2,
       name: "Specialty Contracting",
-      image: Speciality,
+      image: speciality,
       description:
         "Pre-construction services involve a range of preparatory activities crucial for a successful construction project. These include conducting feasibility studies to assess project viability, performing site analysis to understand conditions and potential challenges, and preparing detailed cost estimates for budgeting. Additionally, comprehensive project planning and scheduling are developed to guide the project timeline, while permit acquisition ensures compliance with legal and regulatory requirements.",
     },
     {
       id: 3,
       name: "Renovation and Remodeling",
-      image: Renovation,
+      image: renovation,
       description:
         "Pre-construction services involve a range of preparatory activities crucial for a successful construction project. These include conducting feasibility studies to assess project viability, performing site analysis to understand conditions and potential challenges, and preparing detailed cost estimates for budgeting. Additionally, comprehensive project planning and scheduling are developed to guide the project timeline, while permit acquisition ensures compliance with legal and regulatory requirements.",
     },
     {
       id: 4,
       name: "Infrastructure Development",
-      image: Infrastructure,
+      image: infrastructure,
       description:
         "Pre-construction services involve a range of preparatory activities crucial for a successful construction project. These include conducting feasibility studies to assess project viability, performing site analysis to understand conditions and potential challenges, and preparing detailed cost estimates for budgeting. Additionally, comprehensive project planning and scheduling are developed to guide the project timeline, while permit acquisition ensures compliance with legal and regulatory requirements.",
     },
