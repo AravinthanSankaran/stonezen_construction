@@ -1,9 +1,9 @@
 "use client";
 
 import React from "react";
-import preconstruction from "../../../../public/images/Preconstruction.jpg";
+import preconstruction from "../../../../public/images/preconstruction.jpg";
 import speciality from "../../../../public/images/specialit-construction.jpg";
-import renovation from "../../../../public/images/Rennovation1.jpg";
+import renovation from "../../../../public/images/rennovation1.jpg";
 import infrastructure from "../../../../public/images/infrastructure.jpg";
 import ServiceCard from "./servicecard";
 import "slick-carousel/slick/slick.css";
