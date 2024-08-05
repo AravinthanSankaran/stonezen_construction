@@ -1,5 +1,7 @@
 # StoneZen Construction
 
+![Portfolio Screenshot](/public/images/homepage.png)
+
 StoneZen Construction is a modern web application designed to showcase construction services and projects with a sleek and user-friendly interface.
 
 ## Technologies Used
